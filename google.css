@@ -1,0 +1,26 @@
+#top{
+	height:20px;
+	position:fixed;
+	top:0;
+	clear:both;
+}
+
+a{
+	color:gray;
+	text-decoration: none;
+}
+
+#logo{
+	display: block;
+	width:400px;
+	margin:auto;
+	margin-top: 200px;
+}
+
+
+
+#button{
+	display: block;
+	width: 300px;
+	margin:auto;
+}
